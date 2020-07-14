@@ -17,9 +17,9 @@ This passion carried me through my education at SLIIT. Here there were more reso
 
 So, now, in industry, this passion remains with me. I apply my experience to do something different. I started my career as a tuition master for international school children and I decided to help people as a freelancer. I have done more than 20 projects for different local and foreign customers. Then few years later, became an intern at Pearson Lanka for an extended internship up to 1yr. Working at Pearson was the greatest experience in my life. There's certainly yet more to learn, yet more problems to solve, and yet more to build.
 
---  Languages: Python, Java, PHP, JavaScript
+-  Languages: Python, Java, PHP, JavaScript
 
---  Hands on Experience: Jenkins, StackStorm, VMware vSphere GUI and API, ServiceNow API, Tivoli Storage Manager (TSM) API, Jira, WSO2 Enterprise Integrator, Docker, MySQL, SQL server and MongoDB, AWS, GCloud, Facebook API, Google Play Store, Firebase, Adsense, Admob, Android Studio, Wordpress, Moodle, cPanel Web hosting, Flask, NodeJS, Springboot, Maven projects, ExpressJS, ReactJS, GitHub, GitLab, Bitbucket, Agile Software Development, OOP, Selenium Web Driver, JUnit, Apache JMeter, LDAP Authentication, DNS , SSL, Python Machine Learning
+-  Hands on Experience: Jenkins, StackStorm, VMware vSphere GUI and API, ServiceNow API, Tivoli Storage Manager (TSM) API, Jira, WSO2 Enterprise Integrator, Docker, MySQL, SQL server and MongoDB, AWS, GCloud, Facebook API, Google Play Store, Firebase, Adsense, Admob, Android Studio, Wordpress, Moodle, cPanel Web hosting, Flask, NodeJS, Springboot, Maven projects, ExpressJS, ReactJS, GitHub, GitLab, Bitbucket, Agile Software Development, OOP, Selenium Web Driver, JUnit, Apache JMeter, LDAP Authentication, DNS , SSL, Python Machine Learning
 
 
  <img src="https://img.shields.io/opencollective/sponsors/shields"  />  
