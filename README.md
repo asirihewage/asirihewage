@@ -1,7 +1,6 @@
 <h1 align="center">
   Hello there!
   <p align='center'>
-     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=asirihewage.visitor-badge"  />
       <a href="https://twitter.com/intent/follow?screen_name=asirihewage">
 <img src="https://img.shields.io/twitter/follow/asirihewage?style=social&logo=twitter"
             alt="follow on Twitter"></a>
@@ -20,9 +19,6 @@ So, now, in industry, this passion remains with me. I apply my experience to do 
 -  Languages: Python, Java, PHP, JavaScript
 
 -  Hands on Experience: Jenkins, StackStorm, VMware vSphere GUI and API, ServiceNow API, Tivoli Storage Manager (TSM) API, Jira, WSO2 Enterprise Integrator, Docker, MySQL, SQL server and MongoDB, AWS, GCloud, Facebook API, Google Play Store, Firebase, Adsense, Admob, Android Studio, Wordpress, Moodle, cPanel Web hosting, Flask, NodeJS, Springboot, Maven projects, ExpressJS, ReactJS, GitHub, GitLab, Bitbucket, Agile Software Development, OOP, Selenium Web Driver, JUnit, Apache JMeter, LDAP Authentication, DNS , SSL, Python Machine Learning
-
-
- <img src="https://img.shields.io/opencollective/sponsors/shields"  />  
 
 
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
