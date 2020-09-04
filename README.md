@@ -1,3 +1,6 @@
+![aa](https://github.com/asirihewage/DOTS/blob/master/SCREENSHOTS/banner2.png)
+
+
 <h1 align="center">
   Hello there!
   <p align='center'>
@@ -22,7 +25,4 @@ So, now, in industry, this passion remains with me. I apply my experience to do 
 
 
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-
-##  Latest Projects
-![aa](https://github.com/asirihewage/DOTS/blob/master/SCREENSHOTS/banner2.png)
 
