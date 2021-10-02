@@ -1,6 +1,3 @@
-![aa](https://github.com/asirihewage/DOTS/blob/master/SCREENSHOTS/banner2.png)
-
-
 <h1 align="center">
   Hello there!
   <p align='center'>
