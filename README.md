@@ -18,8 +18,8 @@ const asirihewage = {
 }
 ```
 
-[![Asiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=asirihewage&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asirihewage&count_private=true&show_icons=true&theme=merko)](https://github.com/asirihewage/github-readme-stats)
+[![Asiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=asirihewage&count_private=true&show_icons=true&theme=merko)]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asirihewage&count_private=true&show_icons=true&theme=merko)]()
 
 ##  My Story
 👋🏻 Hi, Ever since I was a little kid 👦, software development has been my passion. I still remember sitting in front of a Pentium 4 computer, with a big CRT monitor, making a Singlish-to-Sinhala language converter for the very first time. My father offered me a desktop computer when I was in grade 6. I went through VB6 tutorials using the dongle offered by Dialog Axiata PLC for winning the Ideamart competition. It was almost magic, being able to get the computer to do whatever I wanted, just by typing some commands.
