@@ -34,7 +34,7 @@ Before that, I have experience not only in large-scale enterprises but also in s
 
 🏆 I have engaged in a broad range of extra-curricular activities throughout my degree studies as well as undertaking an internship for 12 months with a view to preparing myself for a career as a Sofware Engineer 💻 with a sound understanding of ‘from the scratch’ software development to deployment, in real data centers. 
 
-⭐️⭐️⭐️⭐️I love traveling 🧑🏼‍✈️ I ride my bicycle and explore nature 🌻 when I'm free 🚴 I love oil paintings 🎨 anyway, I'm stuck in a poor country. So I'm actively looking for an opportunity (Visa Sponsorship) that may help me to explore the world while working anywhere in the world.⭐️⭐️⭐️⭐️
+⭐️⭐️⭐️⭐️I love traveling 🧑🏼‍✈️ I ride my bicycle and explore nature 🌻 when I'm free 🚴 I love oil paintings 🎨⭐️⭐️⭐️⭐️
 
 ✔️ Programming languages and frameworks: 
 Java JavaScript Python PHP HTML5 NextJS SQL ReactJS Bootstrap Java Selenium Java SpringBoot WordPress Python Flask NodeJS, SCSS
