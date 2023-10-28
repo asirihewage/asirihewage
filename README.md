@@ -9,10 +9,9 @@ A 27 years old. Full Stack Software Engineer from Sri Lanka specializing in Soft
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-##  My Story
 👋 Hello there! As a young boy, I was captivated by the allure of software development. My first rendezvous with coding began on a Pentium 4, crafting a Singlish-to-Sinhala converter. A gift from my father in grade 6, this machine became my playground. Fueled by Dialog Axiata PLC's Ideamart competition, I plunged into the world of VB6.
 
-High school was a whirlwind of innovation. Alongside my buddy, we ventured from basic "Hello World" to crafting remote-control cars via serial cables. My appetite for knowledge grew, diving into HTML, CSS, Javascript, VB, C#, and any software-related literature I could grasp.
+High school was a whirlwind of innovation. Alongside my buddy, we ventured from basic "Hello World" to crafting remote-controlled cars via serial cables. My appetite for knowledge grew, and I dived into HTML, CSS, Javascript, VB, C#, and any software-related literature I could grasp.
 
 SLIIT wasn't just an educational institution for me; it was a treasure trove. The more I delved into programming languages, cloud computing, CI/CD pipelines, and more, the more I realized the vast expanse of the tech universe.
 
