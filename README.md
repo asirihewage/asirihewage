@@ -22,7 +22,9 @@ Today, as a Software Engineer at Pearson - a global educational giant, I've cont
 Beyond work, I'm an adventurer at heart. 🌍 Traveling, cycling through nature's beauty, or immersing in oil painting, life's a vibrant canvas for me.
 
 Tech Expertise:
+
 🔹 Languages & Frameworks: Java, JavaScript, Python, PHP, HTML5, NextJS, SQL, ReactJS, Bootstrap, Java Selenium, Java SpringBoot, WordPress, Python Flask, NodeJS, SCSS
+
 🔹 Technologies & Tools: StackStorm, Checkmarx, Google Cloud, AWS, SQL Server, MongoDB, VMware, ELK Stack, AWS Sagemaker, AppSpider, Nexus Repository, NVDA A11Y, ServiceNow, Jenkins, AWS CloudFront, Docker, Jira & Confluence, WSO2 API Manager, GitLab CI, Composer, Cloudflare DNS, NewRelic, Twistlock, Grafana, PagerDuty, Swagger, Google Play, GraphQL, Postman, PostgreSQL, JMeter, K8s, Google Firebase
 
 HIRE ME ON FIVERR: http://www.fiverr.com/s2/eb2789b01f
